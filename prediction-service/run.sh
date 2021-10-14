@@ -1,1 +1,1 @@
-docker run -p 80:80 prediction-service
+docker run -p 80:80 jeffgorithm/prediction-service
